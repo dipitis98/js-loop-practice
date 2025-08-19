@@ -1,3 +1,9 @@
+// // Structure:
+// for (initialization; condition; increment/decrement) {
+//     // code block
+// }
+
+
 // // Easy //
 
 // // ১ থেকে ১০ পর্যন্ত সব সংখ্যা প্রিন্ট করো।

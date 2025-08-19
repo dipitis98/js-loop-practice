@@ -1,3 +1,10 @@
+// // Structure:
+// while (condition) {
+//     // code block
+//     // increment/decrement
+// }
+
+
 // Easy //
 
 // // ১ থেকে ১০ পর্যন্ত সংখ্যা প্রিন্ট করো।
